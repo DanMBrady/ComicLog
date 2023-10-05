@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicLog", "ComicLog\ComicLog.csproj", "{5D148DA8-0FB9-417E-81EE-BA3D0B9B0EF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D148DA8-0FB9-417E-81EE-BA3D0B9B0EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D148DA8-0FB9-417E-81EE-BA3D0B9B0EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D148DA8-0FB9-417E-81EE-BA3D0B9B0EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D148DA8-0FB9-417E-81EE-BA3D0B9B0EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D84E506-1A83-4F8C-BE70-F21EE4725996}
+	EndGlobalSection
+EndGlobal
